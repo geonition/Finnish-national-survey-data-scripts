@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="nimisto">
+        <SrcDataSource>nimisto.csv</SrcDataSource>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>EPSG:3067</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="attr_11" y="attr_10"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
